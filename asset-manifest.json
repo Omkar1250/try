@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Omkar1250/try/static/css/main.f855e6bc.css",
-    "main.js": "/Omkar1250/try/static/js/main.b9093f97.js",
-    "static/js/592.73b77d2f.chunk.js": "/Omkar1250/try/static/js/592.73b77d2f.chunk.js",
-    "static/media/logo.svg": "/Omkar1250/try/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Omkar1250/try/index.html",
-    "main.f855e6bc.css.map": "/Omkar1250/try/static/css/main.f855e6bc.css.map",
-    "main.b9093f97.js.map": "/Omkar1250/try/static/js/main.b9093f97.js.map",
-    "592.73b77d2f.chunk.js.map": "/Omkar1250/try/static/js/592.73b77d2f.chunk.js.map"
+    "main.css": "/Omkar1250/try-2/static/css/main.f855e6bc.css",
+    "main.js": "/Omkar1250/try-2/static/js/main.52fe3256.js",
+    "static/js/592.73b77d2f.chunk.js": "/Omkar1250/try-2/static/js/592.73b77d2f.chunk.js",
+    "static/media/logo.svg": "/Omkar1250/try-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Omkar1250/try-2/index.html",
+    "main.f855e6bc.css.map": "/Omkar1250/try-2/static/css/main.f855e6bc.css.map",
+    "main.52fe3256.js.map": "/Omkar1250/try-2/static/js/main.52fe3256.js.map",
+    "592.73b77d2f.chunk.js.map": "/Omkar1250/try-2/static/js/592.73b77d2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b9093f97.js"
+    "static/js/main.52fe3256.js"
   ]
 }
